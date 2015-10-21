@@ -1,0 +1,51 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    .foto {
+        width: 21%;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+    }
+    .foto img{
+        width: 100%;
+    }
+    .parrafo {
+        width: 75%;
+        margin-left: 3%;
+        display: inline-block;
+        vertical-align: top;
+        column-count: 3;
+    }
+
+    
+    @media screen and (max-width: 1400px) {
+        .parrafo {
+            column-count: 2;
+        }
+    }
+
+    @media screen and (max-width: 1000px) {
+        .parrafo {
+            column-count: 1;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .foto {
+            display: none;
+        }
+        .parrafo {
+            width: 100%;
+            display: block;
+            margin-left: 0;
+        }
+    }
+</style>
+<div class="foto">
+ <img src="ms-appx:///Assets/DataImages/ilustracoin6.png">
+</div>
+<p class="parrafo">
+	Si vienes en tren <strong>puedes ahorrar un 30%</strong> en tus billetes Renfe con fecha entre el 19/10/2015 y el 24/10/2015.
+    <strong>Descarga la autorización de descuento para beneficiarte: <a title="Descargar bono" href="https://www.desarrollaconmicrosoft.com/Areas/Windows10Hel10World/Content/Files/TES_2015_01849.pdf">DESCARGAR DOCUMENTO</a></strong>
+    Adquiere tus billetes por internet (<a title="Renfe" href="http://www.renfe.com">www.renfe.com</a>). Ver tutorial <a title="Condiciones descuento billete" href="http://www.renfe.com/viajeros/tarifas/eventos_condiciones.html" target="_blank">www.renfe.com/viajeros/tarifas/eventos_condiciones.html</a> o mediante la presentación de este Documento en cualquier punto de venta Renfe (Estaciones y Agencias de Viaje). Podrás obtener billetes en recorridos nacionales de Ida y/o Regreso con origen y destino a la estación más cercana a la localidad que acoja el evento con el % de reducción establecido en cada caso.
+</p>

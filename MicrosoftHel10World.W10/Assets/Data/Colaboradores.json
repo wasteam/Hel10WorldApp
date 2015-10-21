@@ -1,0 +1,16 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "Ticjob",
+    "Icon": "/Assets/DataImages/logo-ticjob.png",
+    "Target": "http://www.ticjob.es/",
+    "_id": "20214179-07a5-4907-b7b0-ee2e0eed83f0"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Get Up Code",
+    "Icon": "/Assets/DataImages/logo-getupcode.png",
+    "Target": "http://developer.getupcode.com/",
+    "_id": "60e01cc7-4cd7-4690-bb32-640eed4a9f9d"
+  }
+]

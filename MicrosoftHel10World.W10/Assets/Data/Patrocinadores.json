@@ -1,0 +1,44 @@
+[
+  {
+    "MenuType": "DeepLink",
+    "Title": "Plain Concepts",
+    "Icon": "/Assets/DataImages/logo-plain.png",
+    "Target": "http://www.plainconcepts.com/",
+    "_id": "8101cacf-d28f-4245-a939-cc5422304608"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Ilitia",
+    "Icon": "/Assets/DataImages/logo-ilitia.png",
+    "Target": "http://www.ilitia.com/",
+    "_id": "cddfe7a4-3b3a-4b11-94b8-ab58ac979662"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Zerkana",
+    "Icon": "/Assets/DataImages/logo-zerkana.png",
+    "Target": "http://www.zerkana.com/",
+    "_id": "bfa7eedb-9ab9-407d-a29f-3c2c5e7f10c8"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Devs DNA",
+    "Icon": "/Assets/DataImages/logo-devsdna.png",
+    "Target": "http://www.devsdna.com/",
+    "_id": "90bd246a-e00a-43cf-945c-e93c61ceec8c"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Intelequia",
+    "Icon": "/Assets/DataImages/logo-intelequia.png",
+    "Target": "http://www.intelequia.com/",
+    "_id": "d820d8c2-057f-4b46-84df-881578942bd0"
+  },
+  {
+    "MenuType": "DeepLink",
+    "Title": "Tokiota",
+    "Icon": "/Assets/DataImages/logo-tokiota.png",
+    "Target": "http://tokiota.es/",
+    "_id": "3f5429fd-c245-485b-9072-a72d502b8926"
+  }
+]
